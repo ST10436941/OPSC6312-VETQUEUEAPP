@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\AppData\\Roaming\\Microsoft\\UserSecrets\\be15b3f8-75e1-4895-b74d-08b221d54740\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\vetqueue.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:vetqueue.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\queryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\queryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\data\\vetqueuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:data\\vetqueuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\models\\paid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:models\\paid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\migrations\\20260918184646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:migrations\\20260918184646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260918124744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260918124744_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|c:\\users\\student\\source\\repos\\vetqueue.api\\migrations\\20260921072246_addpaidtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A94A51-F2E7-44BF-B19F-58D2BA20377B}|VetQueue.Api.csproj|solutionrelative:migrations\\20260921072246_addpaidtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Student\\AppData\\Roaming\\Microsoft\\UserSecrets\\be15b3f8-75e1-4895-b74d-08b221d54740\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\be15b3f8-75e1-4895-b74d-08b221d54740\\secrets.json",
+              "ToolTip": "C:\\Users\\Student\\AppData\\Roaming\\Microsoft\\UserSecrets\\be15b3f8-75e1-4895-b74d-08b221d54740\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\be15b3f8-75e1-4895-b74d-08b221d54740\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-22T06:09:43.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:21:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:12:58.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\QueryEntry.cs",
+              "RelativeDocumentMoniker": "Models\\QueryEntry.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\QueryEntry.cs",
+              "RelativeToolTip": "Models\\QueryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:21:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Clinic.cs",
+              "RelativeDocumentMoniker": "Models\\Clinic.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Clinic.cs",
+              "RelativeToolTip": "Models\\Clinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:20:32.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:18:56.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:54:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T12:23:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VetQueue.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\VetQueue.Api.csproj",
+              "RelativeDocumentMoniker": "VetQueue.Api.csproj",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\VetQueue.Api.csproj",
+              "RelativeToolTip": "VetQueue.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T12:16:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-21T15:48:53.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Pet.cs",
+              "RelativeToolTip": "Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:19:55.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "Controllers\\QueueController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:28:32.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClinicsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\ClinicsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClinicsController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\ClinicsController.cs",
+              "RelativeToolTip": "Controllers\\ClinicsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T11:15:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VetQueueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Data\\VetQueueDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\VetQueueDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Data\\VetQueueDbContext.cs",
+              "RelativeToolTip": "Data\\VetQueueDbContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:22:48.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Paid.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Paid.cs",
+              "RelativeDocumentMoniker": "Models\\Paid.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Models\\Paid.cs",
+              "RelativeToolTip": "Models\\Paid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:19:28.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260921072246_AddPaidTable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260921072246_AddPaidTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260921072246_AddPaidTable.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260921072246_AddPaidTable.cs",
+              "RelativeToolTip": "Migrations\\20260921072246_AddPaidTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:22:46.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260918184646_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260918184646_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260918184646_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260918184646_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260918184646_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:46:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAArwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:24:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "Controllers\\PetsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T10:42:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:53:38.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:53:04.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:52:23.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260918124744_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260918124744_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260918124744_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\VetQueue.Api\\Migrations\\20260918124744_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260918124744_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:47:45.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
